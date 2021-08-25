@@ -157,21 +157,142 @@ LT = 12 mH + 14 mH +22 mH +36 mH
 
 LT = 84 Mh 
 
+19. Repita el problema 17 si las inductancias están conectadas en paralelo.
 
+1/LT = 1/L1 + 1/L2 + 1/3 ... + 1/Ln
 
+LT = 1 / ( 1/12 mH + 1/14 mH + 1/22 mH + 1/36 mH )
 
+LT = 4.386 mH 
 
+21. Determine LT para los circuitos de la figura 13-37.
 
+![image](https://user-images.githubusercontent.com/84390820/130722601-a56a4108-e00c-4890-b445-b72fec34d0ca.png)
 
+LT = 10 H + 5 H + 6 H = 21 H
 
+![image](https://user-images.githubusercontent.com/84390820/130722712-d2855de9-2f90-4479-8b4e-44ae8f26a111.png)
 
+LT = 1 H / (1/3 H + 1/6 H) = 2 H 
 
+![image](https://user-images.githubusercontent.com/84390820/130722784-a6a0a244-bb7b-4d2f-a1fc-d11104a94875.png)
 
+Leq1 = 1 H / (1/18 H + 1/9 H) = 6 H
 
+LT = 14 H + 6H = 20 H
 
+![image](https://user-images.githubusercontent.com/84390820/130722921-506a6567-e61c-4929-8494-8bbda9413598.png)
 
+Leq1 = 2 H + 4 H = 6 H
 
+Leq2 = 1/(1/6 H + 1/4 H) = 2.4 H 
 
+LT = 2.4 H + 1.6 H = 4 H 
+
+![image](https://user-images.githubusercontent.com/84390820/130723095-1662328a-66b1-4943-bdc8-e3cb6a087639.png)
+
+Leq1 = 1/(1/28.5 mH + 1/19mH) = 11.4 mH 
+
+Leq2 = 11.4 mH + 0.6 mH = 12 mH
+
+LT = 1/(1/12mH + 1/6 mH) = 11.4 mH 
+
+23. Una inductancia de 30 μH está conectada en serie con una inductancia de 60 μH, y una inductancia de 10 μH está conectada en paralelo con la combinación en serie. ¿Qué valor tiene LT?
+
+Leq1 = 30 + 60 = 90 μH 
+
+LT = 90 * 10 / 90 + 10 = 9 μH 
+
+25. Para los circuitos de la figura 13-40, determine L3 y L4.
+
+![image](https://user-images.githubusercontent.com/84390820/130723727-42b09f35-0089-4109-8f7e-5b3c76bce616.png)
+
+LT = 1.5 + 11.25 * 5L4 / ( 11.25 + 5L4) 
+
+6 = 3/2 + (225L4/4) / (45+20L4)/4
+
+9/2 = 225L4 / 45 + 20L4
+
+L4 = 1.5 H 
+
+L3 = 4L4 = 4(1.5) = 6 H 
+
+![image](https://user-images.githubusercontent.com/84390820/130724037-04a5832a-d278-4106-b0c4-451343c90155.png)
+
+Leq1 = 27 * 18/ 27 + 18 = 54/5 
+
+Leq2 = 4L3 * L3 / 4L3 + L3 = 4L3 / 5
+
+LT = 54/5  + 4L3 / 5
+
+62/5 - 54/5 = 4/5 L3 
+
+L3 = 2 H 
+
+L4 = 4L3 = 4 * 2 = 8 H 
+
+27. Dos inductancias de 6 y 4 H están en conectadas en paralelo. Después de que se agrega una tercera inductancia, LT = 4 H. ¿Cuál es el valor de la tercera inductancia
+y cómo está conectada?
+
+6 * 4 /(6 + 4) + L3 = 4 
+
+L3 = 1.6 H
+
+El valor de la tercera inductancia es de 1.6 H y esta conectada en serie con el paralelo entre la inductancia de 6 H y 4 H 
+
+29. Inductancias de 8, 12 y 1.2 H están conectadas en un circuito. Si LT = 6 H, ¿cómo están conectados los inductores?
+
+8 * 12 / ( 8 + 12 ) + 1.2 = 6 H 
+
+La inductancia de 1.2 H está en serie con el resultado paralelo de 8 H y 12 H 
+
+31. Por medio de la combinación de elementos, reduzca cada uno de los circuitos de la figura 13-42 a su forma más simple.
+
+![image](https://user-images.githubusercontent.com/84390820/130725144-7ac910b3-4aa8-498a-8cf5-b0800a6b196e.png)
+
+CT = 3μF    LT = 1 H 
+
+![image](https://user-images.githubusercontent.com/84390820/130725218-4a63f866-969c-4801-9689-a324cd6c7fc8.png)
+
+CT = 10 μF  LT = 2 H 
+
+![image](https://user-images.githubusercontent.com/84390820/130725314-c400611f-14f5-438d-9f5a-2774a42d52b5.png)
+
+RT = 10 Ω   CT = 25 μF    LT = 10 H 
+
+![image](https://user-images.githubusercontent.com/84390820/130725417-7e388c56-cec7-4869-9a1f-c30b3c469f86.png)
+
+R1 = 10 Ω - R2 = 40 Ω 
+
+LT = 50 H   CT = 20 μF
+
+13-8 Energía almacenada por una inductancia
+
+33. Encuentre la energía almacenada en el inductor de la figura 13-44.
+
+![image](https://user-images.githubusercontent.com/84390820/130726070-752b8956-c280-4fcd-9416-670faa141510.png)
+
+![image](https://user-images.githubusercontent.com/84390820/130726089-9cc6d563-8239-46ad-bac3-8c7fc6b8ed4a.png)
+
+RTH = 6 + (20 * 5) / 20 + 5 = 10 Ω 
+
+![image](https://user-images.githubusercontent.com/84390820/130726144-c6bf344b-2445-4ab2-bfc7-1c75819d5b55.png)
+
+VTH = 40 * 5 / 20 + 5 = 8 V 
+
+![image](https://user-images.githubusercontent.com/84390820/130726178-ad87dd0a-13e3-4ead-9538-01acea33fe06.png)
+
+I = VTH / RTH + RL = 8 / 10 + 10 = 0.4 A 
+
+W = 1/2 L(t)^2 = 1/2 (4)(0.4)^2 = 0.32 J
+
+13-9 Sugerencias para la resolución de problemas con inductores
+
+35. En la figura 13-46, un medidor de inductancia mide 7 H. ¿Cuál es la falla probable?
+
+![image](https://user-images.githubusercontent.com/84390820/130726293-66098801-f33e-48e9-a0d0-ff142b6ef754.png)
+
+La trayectoria que contiene L1 y L2 está abierta, por lo que L3 y L4 están en serie y mide 7 H.
 
 
 
