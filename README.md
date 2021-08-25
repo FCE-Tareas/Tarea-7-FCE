@@ -732,12 +732,14 @@ VL = 3.69V
 
 4. VIDEO
 
+https://youtu.be/rM-s5SvNCuk
 
 5. CONCLUSIONES
 
 - Las diferentes formas de determinar la inductancia solo se resume en la clasificación para determinar la inductancia ya sea de manera directa no requiere ninguna operación adicional o indirecta requiere operaciones adicionales. Y para ello es importante tomar en cuenta que la energía almacenada en un capacitor o en un inductor es siempre igual o mayor que cero y ambos se clasifican como elementos pasivos puesto que no generan ni disipan energía, solo la almacenan esto es cierto solapara los modelos matemáticos.
 
-
+- Las inductancias en serie o en paralelo, la inductancia equivalente se determina con las mismas reglas que se usaron para la resistencia. Para un circuito en serie las inductancias se van a sumar y para un circuito en paralelo se suman todos los términos 1/L y luego se toma el recíproco de la suma.
 
 6. BIBLIOGRAFÍA
 
+Robbins, A., & Miller, W. C. (2008). Análisis de circuitos: teoría y práctica. Cengage Learning Editores.
