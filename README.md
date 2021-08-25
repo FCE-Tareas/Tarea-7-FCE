@@ -352,6 +352,154 @@ vl=30V
 
 3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.
 
+VR6=i6R6
+
+VR6=(0A)(18Ω)
+
+VR6=0V
+
+Req1=R4+R5
+
+Req1=16Ω+14Ω
+
+Req1=30Ω
+
+Req2=R3/Req1
+
+Req2=R3*Req1/R3+Req1
+
+Req2=(60Ω)(30Ω)/60Ω+30Ω
+
+Req2=20Ω
+
+Req3=R2+Req2
+
+Req3=40Ω+20Ω
+
+Req3=60Ω
+
+Req4=R1/Req3
+
+Req4=R1*Req3/R1+Req3
+
+Req4=(10Ω)(60Ω)/10Ω+60Ω
+
+Req4=60/7Ω
+
+![image](https://user-images.githubusercontent.com/85209614/130748560-52db4abb-471a-4485-a20d-dcf517a04013.png)
+
+![image](https://user-images.githubusercontent.com/85209614/130748600-20181ca8-7978-4d37-93ed-aaf8d13fc399.png)
+
+5. El interruptor de la figura 14-39 está cerrado en t=0 s.
+
+![image](https://user-images.githubusercontent.com/85209614/130748650-5f39a6de-6938-460f-9e16-4f1afe0d1241.png)
+
+a. ¿Cuál es la constante de tiempo del circuito?
+
+![image](https://user-images.githubusercontent.com/85209614/130748738-567d1cb1-d4e3-440e-ab1d-b6c5aa2967cd.png)
+
+b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable?
+
+![image](https://user-images.githubusercontent.com/85209614/130748806-db3856ef-439b-4e1b-968e-96cdb2c78b83.png)
+
+c. Determine las ecuaciones para iL y vL.
+
+![image](https://user-images.githubusercontent.com/85209614/130748871-f9886e46-53e2-4785-8207-395e14ab87d1.png)
+
+d. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t=0 hasta 5𝞃.
+
+![image](https://user-images.githubusercontent.com/85209614/130748918-d17db80a-feef-4cf1-9a77-b80e8debd831.png)
+
+![image](https://user-images.githubusercontent.com/85209614/130748940-57f6d15f-7db0-471c-98c4-fa51a335ca80.png)
+
+![image](https://user-images.githubusercontent.com/85209614/130749037-814cf022-68e6-43ab-8b68-0fa90114de7b.png)
+
+![image](https://user-images.githubusercontent.com/85209614/130749093-d83899bc-e27a-482a-99a6-2f956d6cce79.png)
+
+![image](https://user-images.githubusercontent.com/85209614/130749101-eaa84df6-a50d-4c5a-810c-0bca63043100.png)
+
+7. Repita el problema 5 para el circuito de la figura 14-41 con L =4 H.
+
+![image](https://user-images.githubusercontent.com/85209614/130749147-49cab780-a70d-4f0d-b116-8a71a6eee2b1.png)
+
+a. ¿Cuál es la constante de tiempo del circuito?
+
+![image](https://user-images.githubusercontent.com/85209614/130749423-f5e17b81-dc4d-41de-9121-f6433d5f81c5.png)
+
+b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable?
+
+![image](https://user-images.githubusercontent.com/85209614/130749520-c1e3f0b7-e50d-4fb0-8f33-69ffb320bc38.png)
+
+c. Determine las ecuaciones para iL y vL.
+
+![image](https://user-images.githubusercontent.com/85209614/130749581-9d12baea-49b7-48fc-bb1e-422ae5c39a74.png)
+
+d. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t=0 hasta 5𝞃.
+
+![image](https://user-images.githubusercontent.com/85209614/130749690-ff66af63-fdf1-4411-8c10-9c1fb52325c6.png)
+
+![image](https://user-images.githubusercontent.com/85209614/130749703-ce6536ff-fe09-427b-8ef0-e9bbe8dd4645.png)
+
+![image](https://user-images.githubusercontent.com/85209614/130749803-8f163e4b-5a6e-4eba-bffd-c91410d658f6.png)
+
+![image](https://user-images.githubusercontent.com/85209614/130749966-728613f3-e501-4e16-858f-24937208fdbc.png)
+
+9. Cierre el interruptor en t=0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL en t =3.4 ms.
+
+![image](https://user-images.githubusercontent.com/85209614/130750143-ad7d9fd5-229c-48f3-9333-a12a6ac0a51d.png)
+
+![image](https://user-images.githubusercontent.com/85209614/130750161-cfa386a5-2c78-4c19-aafd-a7ce4bfaa0d3.png)
+
+![image](https://user-images.githubusercontent.com/85209614/130750188-a3ba020f-bb92-4943-bf7e-4805cbc2e0d6.png)
+
+11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L.
+
+![image](https://user-images.githubusercontent.com/85209614/130750257-333da7fa-b03c-43b4-ad0d-16b15032d103.png)
+
+13. Para la figura 14-1(b), si vL=40e^2000t V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, R y L?
+
+![image](https://user-images.githubusercontent.com/85209614/130750332-5ac36005-f2cf-4012-9332-7c802499540b.png)
+
+15. Para la figura 14-43, R1=20Ω , R2=230Ω y L=0.5 H y la corriente del inductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En t=0 s, el interruptor se abre.
+
+![image](https://user-images.githubusercontent.com/85209614/130750371-bcfab2e4-ab1a-4a36-8007-fcc7077bcc9a.png)
+
+a. ¿Cuál es la constante de tiempo en la fase de disminución?
+
+![image](https://user-images.githubusercontent.com/85209614/130750405-50ac8342-bd9e-49db-8c2d-35098f8c4347.png)
+
+b. Determine las ecuaciones para iL y vL.
+
+![image](https://user-images.githubusercontent.com/85209614/130750472-b6dd8413-b510-43c6-acf2-d9f052980db9.png)
+
+c. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t=0 hasta 5 𝞃.
+
+![image](https://user-images.githubusercontent.com/85209614/130750590-231d3a43-5256-44c4-ac06-1e6938a16ab8.png)
+
+![image](https://user-images.githubusercontent.com/85209614/130750665-4ed09e08-2421-4d7b-928b-c40517dd84a7.png)
+
+![image](https://user-images.githubusercontent.com/85209614/130750819-ee41f625-079a-44bd-a330-efa67a01ddf7.png)
+
+d. Grafique iL y vL. Marque el eje en 𝞃 y en segundos.
+
+![image](https://user-images.githubusercontent.com/85209614/130750870-8e308732-eb14-4f6a-86dd-07610a5ada79.png)
+
+![image](https://user-images.githubusercontent.com/85209614/130750922-8bc406dd-7e7c-439e-a9ec-5cedba35efe6.png)
+
+![image](https://user-images.githubusercontent.com/85209614/130750924-78e6920c-89bc-4e96-b8a8-4d28906a742c.png)
+
+17. Dado vL=2700 Ve^100t. Use la curva universal de la constante de tiempo para determinar vL en t=20 ms.
+
+r=1/100s
+
+r=10ms
+
+t=2r
+
+vL=-2700V(0.135)
+
+vL=-364.5V
+
 19.- Para la figura 14-43, L = 20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine R1 y R2.
 
 ![image](https://user-images.githubusercontent.com/84390686/130743637-8ee6ce94-b928-4a2f-9247-3efd7ab583f4.png)
