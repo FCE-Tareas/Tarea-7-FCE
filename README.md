@@ -22,6 +22,10 @@ CAPÍTULO XIII
 
 ![Diagrama en blanco (13)](https://user-images.githubusercontent.com/85137398/130708665-8ec7042f-3fee-4fa7-990f-18c6cdc51751.png)
 
+CAPÍTULO XIV
+
+![6bedfe268a3241feacffba8eedb0117d-0001](https://user-images.githubusercontent.com/84390686/130743448-a49db10d-68a5-4cd4-9dda-7b474c987c89.jpg)
+
 3. EXPLICACIÓN Y RESOLCIÓN DE EJERCICIOS O PROBLEMAS
 
 EJERCICIOS CAPÍTULO XIII
@@ -347,4 +351,235 @@ vl=(2A)(15Ω)
 vl=30V
 
 3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.
+
+
+19. Para la figura 14-43, L = 20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine R1 y R2.
+
+![image](https://user-images.githubusercontent.com/84390686/130743637-8ee6ce94-b928-4a2f-9247-3efd7ab583f4.png)
+
+t = 5τ
+
+5s = 5τ
+
+τ = 1s
+
+τ = L/Req
+
+1s = 20H/R1
+
+R1 = 20 Ω
+
+t = 5 τ’
+
+2s = 5 τ’
+
+τ = 0.4 s
+
+τ’= L/Req
+
+0,4s = 20H/R1+R2
+
+R1 + R2 =20/0.4
+
+20 + R2 = 50
+
+R2 = 50-20
+
+R2 = 30 Ω
+
+21. Para la bobina de la figura 14-45 Re = 1.7 Ω y L = 150 mH. Determine la corriente de la bobina en t = 18.4 ms.
+
+![image](https://user-images.githubusercontent.com/84390686/130743884-39f218e3-f4f2-45ae-862b-b9841e9497d7.png)
+
+Req = R1 + (R2 || R3)
+
+Req = 3.9 Ω + ((5.6 Ω)(4.7 Ω))/5.6 Ω+4.7 Ω
+
+Req = 3.9 Ω + 2.56 Ω
+
+Req = 6.46 Ω
+
+τ = L/Req
+
+τ = L/ Rth + R1
+
+τ = 150mH/6.46 Ω + 1.7 Ω
+
+τ = 0.0184s
+
+iL= Eth/Req * (1-e^-t/τ)
+
+iL = 67V/6.46 Ω+1.7 Ω * (1-e^-t/0.0184)
+
+iL = 8.21 (1-e^-t/0.0184) A
+
+t = 18.4 ms
+
+iL = 8.21 (1-e^-18.4/0.0184)
+
+iL = 8.21(1-e^-1)
+
+iL = 8.21(0.632)
+
+iL = 5.19 A
+
+23. Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor.
+
+![image](https://user-images.githubusercontent.com/84390686/130743905-69048248-dfe9-4296-ab1a-7df5e9ecf009.png)
+
+a. Determine la constante de tiempo del circuito desenergizado.
+
+Req = 10.5 kΩ || 30 kΩ
+
+Req = (10.5kΩ)(30kΩ)/10.5kΩ + 30kΩ
+
+Req = 7.78 kΩ
+
+Diseñar el circuito de nuevo
+
+![image](https://user-images.githubusercontent.com/84390686/130743911-a3a93794-84bc-41e1-b73c-129fd2080e5d.png)
+
+i = 120V/10kΩ + 7.78kΩ
+
+i = 6.75 mA
+
+Diseñar el nuevo circuito:
+
+![image](https://user-images.githubusercontent.com/84390686/130743936-0e754f5c-f3d6-457b-bbb6-bee89d256e69.png)
+
+I0 = i * 30kΩ/10.5kΩ + 30kΩ
+
+I0 = 6.75 mA * 30kΩ/10.5 kΩ + 30 kΩ
+
+I0 = 6.75 mA * 30 kΩ/40.5 kΩ
+
+I0 = 5 mA
+
+τ’ = L/Req
+
+τ’ = 0.36H/10.5 kΩ + 30 kΩ
+
+τ’ = 0.36H/40.5 kΩ
+
+τ’ = 8.89us.
+
+b. Encuentre el voltaje en el inductor y la corriente a través de él en t = 17.8 us, use las ecuaciones que se determinaron antes.
+
+t = 17.8 us
+
+VL = -202. 5e^-t/8.89us
+
+VL = -202.5e^-17.8us/8.89us
+
+VL = -202.5e^-2
+
+VL = -27.4 V
+
+iL = 5e^-t/8.89us
+
+iL = 5e^-17.8us/8.89us
+
+iL = 5e^-2
+
+iL = 0.677 mA
+
+25. a. Repita el problema 22, partes (a) y (b) para el circuito de la figura 14-47.
+
+b. ¿Cuánto es iL y vL en t=25 ms?
+
+![image](https://user-images.githubusercontent.com/84390686/130743975-e582c6f5-407c-4995-a667-559786d10a8c.png)
+
+RTH = R3+(R1||R2)
+
+RTH = R3+(R1R2/R1+R2)
+
+RTH = 280 Ω + (200Ω)(300Ω)/200Ω+300Ω
+
+RTH = 280Ω+120Ω
+
+RTH = 400Ω
+
+τ = L/RTH
+
+τ = 4H/400Ω
+
+τ = 10MS
+
+E + iR2 + R1 (i – 0.5A) = 0
+
+40 + i(300 Ω)+(200 Ω)(i – 0.5A) = 0
+
+40 + 500i -100 = 0
+
+i = 60/500
+
+i = 0.12ª
+
+ETH = iR2
+
+ETH = (0.12A)(300 Ω)
+
+ETH = 36 V
+
+iL = ETH/RTH * (1-e^-(RTH/L)*t)A
+
+iL = 36V/400Ω * (1-e^-t/ τ)
+
+iL = 90 (1-e^-t/10MS) mA
+
+t = 25ms 
+
+VL= 36e^-25ms/10ms
+
+VL = 36e^-2.5
+
+VL = 2.96V
+
+t = 25ms 
+
+iL = 90(1-e^-25ms/10ms) m A
+
+iL = 90(1-e^-2.5) Ma
+
+iL = 82.6 mA
+
+27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado.
+
+![image](https://user-images.githubusercontent.com/84390686/130744020-4a0f608b-0e83-4fc3-b5ad-6df3ab832981.png)
+
+Isc= ETH/RTH
+
+0.15A = 45V/RTH
+
+RTH = 45V / 0.15A
+
+RTH = 300 Ω
+
+iL = ETH/RTH+R *(1-e^-(RTH+R/l)t)
+
+iL = 45V/300Ω+100Ω * (1-e^-(300 Ω+100 Ω/0.4H)t)
+
+iL = 0.1125(1-e^-1000t)A
+
+VL = L diL/dt
+
+VL = (0.4H)d/dt (0.1125(1-e^-1000t))
+
+VL = 45e^-1000t V
+
+iL = 0.1125(1-e^-1000(2.5ms))
+
+iL = 0.1125(1-e^2.5)
+
+iL = 0.1033 A
+
+iL = 103.3 mA
+
+t = 2.5 ms
+
+VL = 45e^-1000(2.5ms)
+
+VL = 45e^-2.5
+
+VL = 3.69V
 
