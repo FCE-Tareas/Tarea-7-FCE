@@ -18,9 +18,9 @@ Específicos
 
 CAPÍTULO XIII
 
-![image](https://user-images.githubusercontent.com/85137398/130708126-d9d1a96d-4b61-4eea-babf-b3ca0fede845.png)
+![Diagrama en blanco (12)](https://user-images.githubusercontent.com/85137398/130708657-be257962-9d01-4a1e-8008-14185fbc6dc5.png)
 
-![image](https://user-images.githubusercontent.com/85137398/130708146-cf3283df-6ea6-499e-89c1-c1eda313b68d.png)
+![Diagrama en blanco (13)](https://user-images.githubusercontent.com/85137398/130708665-8ec7042f-3fee-4fa7-990f-18c6cdc51751.png)
 
 3. EXPLICACIÓN Y RESOLCIÓN DE EJERCICIOS O PROBLEMAS
 
