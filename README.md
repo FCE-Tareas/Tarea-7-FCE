@@ -352,7 +352,6 @@ vl=30V
 
 3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.
 
-
 19. Para la figura 14-43, L = 20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine R1 y R2.
 
 ![image](https://user-images.githubusercontent.com/84390686/130743637-8ee6ce94-b928-4a2f-9247-3efd7ab583f4.png)
