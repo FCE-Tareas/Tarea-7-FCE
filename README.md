@@ -730,3 +730,14 @@ VL = 45e^-2.5
 
 VL = 3.69V
 
+4. VIDEO
+
+
+5. CONCLUSIONES
+
+- Las diferentes formas de determinar la inductancia solo se resume en la clasificación para determinar la inductancia ya sea de manera directa no requiere ninguna operación adicional o indirecta requiere operaciones adicionales. Y para ello es importante tomar en cuenta que la energía almacenada en un capacitor o en un inductor es siempre igual o mayor que cero y ambos se clasifican como elementos pasivos puesto que no generan ni disipan energía, solo la almacenan esto es cierto solapara los modelos matemáticos.
+
+
+
+6. BIBLIOGRAFÍA
+
