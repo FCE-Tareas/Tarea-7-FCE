@@ -294,5 +294,57 @@ W = 1/2 L(t)^2 = 1/2 (4)(0.4)^2 = 0.32 J
 
 La trayectoria que contiene L1 y L2 está abierta, por lo que L3 y L4 están en serie y mide 7 H.
 
+EJERCICIOS CAPÍTULO XIV
 
+1. a. ¿A qué se parece un inductor que no conduce corriente en el instante que se acciona el interruptor?
+
+Circuito abierto
+
+b. Para cada circuito de la figura 14-37, determine iS y vL inmediatamente después de que el interruptor se cierra.
+
+![image](https://user-images.githubusercontent.com/85209614/130729819-1ccc55e6-bd41-42b3-a2a4-53b0f2dd9794.png)
+
+Ejercicio a
+
+is=E/R
+
+is=40V/25Ω
+
+is=1.6A
+
+Ejercicio b
+
+is=E/R
+
+is=60V/10Ω
+
+is=6A
+
+vl=E
+
+vl=60V
+
+Ejercicio c
+
+is=0A
+
+vl=E
+
+Ejercicio d
+
+is=E/R1+R2
+
+is=90V/30Ω+15Ω
+
+is=90V/45Ω
+
+is=2A
+
+vl=is*R2
+
+vl=(2A)(15Ω)
+
+vl=30V
+
+3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.
 
